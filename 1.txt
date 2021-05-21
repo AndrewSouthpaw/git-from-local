@@ -1,1 +1,1 @@
-hello from clone2
+hello from clone 1 and clone2
